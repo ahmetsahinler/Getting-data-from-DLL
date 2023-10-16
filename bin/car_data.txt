@@ -1,0 +1,7002 @@
+[
+  {
+    "User_ID": 385,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 20000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 681,
+    "Gender": "Male",
+    "Age": 2,
+    "AnnualSalary": 43500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 353,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 74000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 895,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 107500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 661,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 846,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 33500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 219,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 132500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 588,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 64000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 85,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 84500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 465,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 686,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 408,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 23000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 790,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 116,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 118,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 108000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 54,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 149000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 90,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 372,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 53000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 926,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 79000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 94,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 134000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 338,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 51500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 134,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 39000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 821,
+    "Gender": "Male",
+    "Age": 54,
+    "AnnualSalary": 25500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 294,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 597,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 117500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 567,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 58000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 20,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 107000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 108,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 97500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 105,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 29000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 994,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 147500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 273,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 26000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 263,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 423,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 62000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 88,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 79500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 81,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 113500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 257,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 41500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 755,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 249,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 114500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 121,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 73000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 489,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 15000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 555,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 37500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 222,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 39500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 590,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 645,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 689,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 86000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 646,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 964,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 384,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 123000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 826,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 48500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 27,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 268,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 99500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 466,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 411,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 130000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 445,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 428,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 43500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 974,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 36000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 828,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 21500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 348,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 98500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 730,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 820,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 147000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 917,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 109500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 15,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 26500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 365,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 88000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 674,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 30,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 58000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 531,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 22000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 190,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 160,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 129000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 371,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 45000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 321,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 42000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 230,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 40500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 819,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 37500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 965,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 86500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 351,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 63000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 266,
+    "Gender": "Male",
+    "Age": 58,
+    "AnnualSalary": 41500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 629,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 115500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 891,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 311,
+    "Gender": "Male",
+    "Age": 34,
+    "AnnualSalary": 32500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 439,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 106500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 861,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 53500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 510,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 28000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 277,
+    "Gender": "Male",
+    "Age": 53,
+    "AnnualSalary": 151500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 417,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 88500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 123,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 17000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 912,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 76000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 667,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 136500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 435,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 120500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 722,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 35500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 892,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 279,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 18500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 500,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 50000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 684,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 144500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 414,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 51000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 349,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 38500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 456,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 103500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 485,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 151500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 960,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 75500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 233,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 17000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 191,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 87000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 471,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 977,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 84000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 120,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 88000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 126,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 23,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 42000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 225,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 16000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 772,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 21500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 398,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 367,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 29500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 511,
+    "Gender": "Female",
+    "Age": 18,
+    "AnnualSalary": 44000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 775,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 109500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 324,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 43500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 829,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 30000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 478,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 58000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 546,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 83000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 942,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 108500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 571,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 112000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 375,
+    "Gender": "Male",
+    "Age": 59,
+    "AnnualSalary": 143000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 905,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 136500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 132,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 438,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 972,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 107000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 596,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 99000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 395,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 663,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 41000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 903,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 23500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 25,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 34500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 599,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 563,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 23000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 607,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 137000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 928,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 144000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 453,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 24500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 509,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 203,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 88000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 450,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 573,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 662,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 89000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 651,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 19,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 31500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 634,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 647,
+    "Gender": "Male",
+    "Age": 62,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 693,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 78500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 728,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 520,
+    "Gender": "Male",
+    "Age": 57,
+    "AnnualSalary": 72500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 213,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 114500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 142,
+    "Gender": "Male",
+    "Age": 22,
+    "AnnualSalary": 89500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 322,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 540,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 743,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 73000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 887,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 241,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 32000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 701,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 848,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 33000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 782,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 877,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 74000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 924,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 79000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 83,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 144000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 369,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 16500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 579,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 121500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 583,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 89000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 919,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 39500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 957,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 135000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 973,
+    "Gender": "Female",
+    "Age": 63,
+    "AnnualSalary": 110500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 521,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 90000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 41,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 78500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 42,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 136500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 327,
+    "Gender": "Male",
+    "Age": 58,
+    "AnnualSalary": 61500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 347,
+    "Gender": "Female",
+    "Age": 22,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 148,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 96000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 443,
+    "Gender": "Female",
+    "Age": 63,
+    "AnnualSalary": 48500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 700,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 28000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 738,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 527,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 87000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 742,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 81000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 175,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 134500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 335,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 120500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 996,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 378,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 82000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 655,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 74500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 104,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 23000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 221,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 125000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 786,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 536,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 460,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 19000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 710,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 106500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 524,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 36500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 890,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 70000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 46,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 109500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 95,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 78,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 110500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 402,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 40500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 264,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 143500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 34,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 522,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 118000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 156,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 19000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 850,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 99,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 90500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 462,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 979,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 46500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 432,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 65500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 69,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 25000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 943,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 83000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 381,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 958,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 954,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 612,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 88000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 267,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 90500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 785,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 133500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 557,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 49000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 935,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 32000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 805,
+    "Gender": "Male",
+    "Age": 62,
+    "AnnualSalary": 132500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 554,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 144500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 990,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 132500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 345,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 82000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 172,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 63500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 429,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 16500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 948,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 64500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 89,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 95000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 139,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 43500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 332,
+    "Gender": "Male",
+    "Age": 21,
+    "AnnualSalary": 50500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 70,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 42500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 868,
+    "Gender": "Female",
+    "Age": 19,
+    "AnnualSalary": 87500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 747,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 542,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 882,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 744,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 498,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 78500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 934,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 146500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 253,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 105500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 620,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 64500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 778,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 796,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 532,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 45500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 242,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 33000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 504,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 29500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 569,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 149500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 1000,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 76500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 401,
+    "Gender": "Female",
+    "Age": 62,
+    "AnnualSalary": 90500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 229,
+    "Gender": "Male",
+    "Age": 57,
+    "AnnualSalary": 60000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 91,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 74000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 135,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 31000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 906,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 104000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 605,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 90500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 613,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 92500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 196,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 167,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 34000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 698,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 98500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 565,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 90500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 669,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 715,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 258,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 38000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 604,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 28500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 517,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 37500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 228,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 36500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 987,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 20500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 885,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 36500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 415,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 83500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 357,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 110500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 254,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 235,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 24500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 282,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 128,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 703,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 60000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 131,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 119,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 73500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 921,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 136500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 881,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 36500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 182,
+    "Gender": "Male",
+    "Age": 21,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 112,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 127500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 342,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 88500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 397,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 35,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 53000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 145,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 941,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 150500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 736,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 68,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 641,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 116500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 668,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 673,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 768,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 117,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 75000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 633,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 418,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 44000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 993,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 139000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 902,
+    "Gender": "Male",
+    "Age": 58,
+    "AnnualSalary": 75500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 331,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 119500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 918,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 29500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 622,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 131000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 86,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 88500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 392,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 89000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 162,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 978,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 624,
+    "Gender": "Male",
+    "Age": 57,
+    "AnnualSalary": 61500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 640,
+    "Gender": "Male",
+    "Age": 56,
+    "AnnualSalary": 133000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 26,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 47000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 741,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 704,
+    "Gender": "Male",
+    "Age": 34,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 199,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 27500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 130,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 149500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 179,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 29500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 427,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 141000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 275,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 81500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 330,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 77000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 813,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 32500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 390,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 774,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 113000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 469,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 28000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 652,
+    "Gender": "Male",
+    "Age": 55,
+    "AnnualSalary": 71500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 729,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 79500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 648,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 82000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 92,
+    "Gender": "Female",
+    "Age": 25,
+    "AnnualSalary": 33500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 904,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 82500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 614,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 98500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 756,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 137000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 316,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 113500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 325,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 78000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 953,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 34000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 675,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 18500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 373,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 51000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 879,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 806,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 36000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 770,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 43500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 387,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 98500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 394,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 43500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 911,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 140500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 922,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 419,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 24500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 426,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 10,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 64500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 547,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 79500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 174,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 25000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 467,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 91500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 502,
+    "Gender": "Male",
+    "Age": 57,
+    "AnnualSalary": 134500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 553,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 19500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 293,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 89000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 719,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 96500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 759,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 740,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 136500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 87,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 85000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 753,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 49500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 389,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 792,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 783,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 487,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 51500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 84,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 74000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 59,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 51500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 153,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 106000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 920,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 31500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 535,
+    "Gender": "Male",
+    "Age": 63,
+    "AnnualSalary": 104500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 883,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 41000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 750,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 71500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 320,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 143500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 458,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 89500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 396,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 15000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 416,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 69500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 575,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 63500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 659,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 114500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 208,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 534,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 88500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 97,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 47500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 628,
+    "Gender": "Female",
+    "Age": 62,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 682,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 30000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 970,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 70500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 496,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 762,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 80500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 495,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 52500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 574,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 34500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 514,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 873,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 21500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 867,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 272,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 79500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 383,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 24500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 178,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 27500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 739,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 44000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 47,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 48500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 625,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 801,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 615,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 606,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 206,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 139500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 997,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 143500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 216,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 898,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 45000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 77,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 70000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 529,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 133000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 769,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 845,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 92500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 239,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 104000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 459,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 87000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 949,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 76000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 552,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 42000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 317,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 692,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 683,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 92500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 209,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 148500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 187,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 170,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 28000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 244,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 88000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 512,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 30000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 679,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 838,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 151500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 224,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 51500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 600,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 808,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 85500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 171,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 147500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 220,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 116000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 956,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 936,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 333,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 71500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 854,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 58,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 81500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 716,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 91500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 773,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 135500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 835,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 84500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 350,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 164,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 18000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 379,
+    "Gender": "Female",
+    "Age": 62,
+    "AnnualSalary": 31500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 637,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 149000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 841,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 34500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 205,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 243,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 89000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 361,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 269,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 57500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 31,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 745,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 880,
+    "Gender": "Male",
+    "Age": 63,
+    "AnnualSalary": 36500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 938,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 36000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 910,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 25000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 284,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 33500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 71,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 46500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 143,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 90500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 452,
+    "Gender": "Male",
+    "Age": 21,
+    "AnnualSalary": 88000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 252,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 34000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 810,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 541,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 68000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 237,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 931,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 112000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 664,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 89500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 616,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 57500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 566,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 45500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 853,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 169,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 107000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 472,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 865,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 85500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 791,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 146000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 878,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 271,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 148500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 763,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 32000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 98,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 621,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 113,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 576,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 103500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 862,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 139500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 896,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 32,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 50000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 871,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 50500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 944,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 84500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 888,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 127500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 761,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 90000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 533,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 23000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 245,
+    "Gender": "Male",
+    "Age": 23,
+    "AnnualSalary": 19500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 102,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 16500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 961,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 976,
+    "Gender": "Female",
+    "Age": 19,
+    "AnnualSalary": 26000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 685,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 120000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 2,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 63500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 858,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 82500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 434,
+    "Gender": "Female",
+    "Age": 19,
+    "AnnualSalary": 69500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 849,
+    "Gender": "Female",
+    "Age": 22,
+    "AnnualSalary": 63000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 66,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 106500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 795,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 46500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 876,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 843,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 131500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 537,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 51000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 851,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 47000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 163,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 146500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 141,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 105500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 339,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 262,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 210,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 130500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 261,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 114500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 720,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 25500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 725,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 430,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 425,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 29500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 506,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 37000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 421,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 39500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 157,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 24500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 214,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 46000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 149,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 24500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 609,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 123500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 754,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 69000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 259,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 17500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 309,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 126500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 246,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 50000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 5,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 108500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 138,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 140,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 80500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 236,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 94500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 777,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 138000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 708,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 96000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 765,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 334,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 22000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 198,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 18000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 852,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 117000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 490,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 548,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 22,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 131500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 587,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 96,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 690,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 40500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 463,
+    "Gender": "Male",
+    "Age": 56,
+    "AnnualSalary": 74500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 799,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 39000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 194,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 131000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 836,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 63000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 314,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 138500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 43,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 146000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 913,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 29000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 72,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 85500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 975,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 72500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 270,
+    "Gender": "Male",
+    "Age": 23,
+    "AnnualSalary": 63000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 315,
+    "Gender": "Male",
+    "Age": 56,
+    "AnnualSalary": 40500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 176,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 49,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 91500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 36,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 26500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 297,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 84000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 985,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 40500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 158,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 658,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 58000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 341,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 66000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 718,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 83500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 550,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 91500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 901,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 151,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 26000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 285,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 96000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 570,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 833,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 24500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 127,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 81500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 76,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 109500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 915,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 70000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 549,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 50000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 217,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 51500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 582,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 29500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 694,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 86000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 186,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 27000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 518,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 135500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 513,
+    "Gender": "Female",
+    "Age": 20,
+    "AnnualSalary": 22500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 147,
+    "Gender": "Male",
+    "Age": 21,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 491,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 135500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 889,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 51500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 907,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 21500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 601,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 132500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 875,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 455,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 135500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 526,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 86000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 568,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 21500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 75,
+    "Gender": "Male",
+    "Age": 23,
+    "AnnualSalary": 82500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 930,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 41000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 38,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 713,
+    "Gender": "Female",
+    "Age": 19,
+    "AnnualSalary": 21000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 515,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 62000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 146,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 18000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 991,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 38500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 377,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 227,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 406,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 28000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 21,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 809,
+    "Gender": "Male",
+    "Age": 54,
+    "AnnualSalary": 70000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 630,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 39000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 507,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 92500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 107,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 97500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 966,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 150000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 481,
+    "Gender": "Female",
+    "Age": 62,
+    "AnnualSalary": 78500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 816,
+    "Gender": "Female",
+    "Age": 25,
+    "AnnualSalary": 90500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 893,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 986,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 58000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 967,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 22000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 982,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 48500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 803,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 23000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 9,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 33500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 822,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 89500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 360,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 108000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 200,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 610,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 96000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 593,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 584,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 925,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 105500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 410,
+    "Gender": "Male",
+    "Age": 22,
+    "AnnualSalary": 18000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 717,
+    "Gender": "Male",
+    "Age": 18,
+    "AnnualSalary": 82000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 33,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 115,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 556,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 636,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 947,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 16000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 929,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 442,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 159,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 959,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 90000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 152,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 23000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 256,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 296,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 35000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 37,
+    "Gender": "Female",
+    "Age": 22,
+    "AnnualSalary": 27000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 144,
+    "Gender": "Male",
+    "Age": 53,
+    "AnnualSalary": 72000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 764,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 51,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 523,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 399,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 71500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 61,
+    "Gender": "Male",
+    "Age": 59,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 329,
+    "Gender": "Male",
+    "Age": 24,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 165,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 362,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 195,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 135500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 950,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 83000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 644,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 125000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 188,
+    "Gender": "Female",
+    "Age": 25,
+    "AnnualSalary": 28500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 787,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 86500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 493,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 53,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 42000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 409,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 124500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 260,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 108000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 3,
+    "Gender": "Male",
+    "Age": 20,
+    "AnnualSalary": 74000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 223,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 344,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 24500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 18,
+    "Gender": "Male",
+    "Age": 63,
+    "AnnualSalary": 44500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 109,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 118500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 864,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 474,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 793,
+    "Gender": "Male",
+    "Age": 55,
+    "AnnualSalary": 39000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 632,
+    "Gender": "Female",
+    "Age": 18,
+    "AnnualSalary": 86000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 300,
+    "Gender": "Female",
+    "Age": 18,
+    "AnnualSalary": 68000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 323,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 84500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 847,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 85000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 326,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 204,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 619,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 19500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 727,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 25000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 136,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 468,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 82500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 706,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 483,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 114500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 298,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 89000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 897,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 144000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 386,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 74000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 447,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 105500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 677,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 52500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 304,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 108500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 380,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 89500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 914,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 49000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 538,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 31000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 650,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 702,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 7,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 134000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 305,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 22500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 393,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 100500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 780,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 654,
+    "Gender": "Male",
+    "Age": 22,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 870,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 115500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 866,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 82500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 12,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 90500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 137,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 89500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 101,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 93500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 623,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 42500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 290,
+    "Gender": "Male",
+    "Age": 34,
+    "AnnualSalary": 112000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 45,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 17000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 234,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 82500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 307,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 562,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 124500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 376,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 711,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 25500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 6,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 45500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 788,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 42000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 643,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 33000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 310,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 34500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 530,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 31500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 318,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 42500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 859,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 84500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 336,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 709,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 60000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 278,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 91500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 413,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 90500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 749,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 594,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 45500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 366,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 201,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 525,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 666,
+    "Gender": "Female",
+    "Age": 19,
+    "AnnualSalary": 45500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 29,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 40500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 665,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 444,
+    "Gender": "Female",
+    "Age": 26,
+    "AnnualSalary": 84000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 57,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 88500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 746,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 54000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 834,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 80000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 995,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 11,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 653,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 60000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 358,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 101500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 79,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 91000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 671,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 872,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 672,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 8,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 26000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 129,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 105000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 328,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 77000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 161,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 368,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 89500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 499,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 23000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 308,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 50000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 771,
+    "Gender": "Male",
+    "Age": 28,
+    "AnnualSalary": 89500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 180,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 33500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 44,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 142500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 265,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 855,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 363,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 32500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 840,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 999,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 131500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 17,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 133,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 65500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 955,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 101500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 894,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 117000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 503,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 73000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 869,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 102000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 48,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 135000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 617,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 76000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 874,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 128500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 578,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 312,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 23500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 110,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 113500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 13,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 734,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 113000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 670,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 603,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 189,
+    "Gender": "Male",
+    "Age": 44,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 559,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 226,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 146500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 837,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 114000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 346,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 733,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 126000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 306,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 448,
+    "Gender": "Male",
+    "Age": 59,
+    "AnnualSalary": 135500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 585,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 726,
+    "Gender": "Male",
+    "Age": 23,
+    "AnnualSalary": 20000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 391,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 56,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 286,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 122000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 482,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 30500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 595,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 142000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 100,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 24500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 807,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 111,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 41500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 939,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 27500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 215,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 28500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 449,
+    "Gender": "Male",
+    "Age": 34,
+    "AnnualSalary": 115000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 55,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 87500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 288,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 118500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 817,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 97500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 543,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 83000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 752,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 51000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 516,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 115500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 856,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 50,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 53000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 627,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 657,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 4,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 119000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 433,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 113000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 238,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 142500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 940,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 193,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 80,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 988,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 784,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 143000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 475,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 109500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 240,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 82000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 969,
+    "Gender": "Female",
+    "Age": 25,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 580,
+    "Gender": "Male",
+    "Age": 18,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 945,
+    "Gender": "Male",
+    "Age": 58,
+    "AnnualSalary": 144000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 74,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 486,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 20000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 937,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 422,
+    "Gender": "Male",
+    "Age": 59,
+    "AnnualSalary": 62500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 359,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 47500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 446,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 37500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 231,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 85500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 688,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 16500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 370,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 49500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 699,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 77500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 122,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 44500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 183,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 484,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 126500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 431,
+    "Gender": "Male",
+    "Age": 63,
+    "AnnualSalary": 44500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 697,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 72500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 678,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 20000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 899,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 88000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 28,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 104000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 313,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 251,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 68000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 93,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 87500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 125,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 30500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 811,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 97500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 923,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 74500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 352,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 55000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 635,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 124500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 519,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 32000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 551,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 374,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 62500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 461,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 714,
+    "Gender": "Female",
+    "Age": 22,
+    "AnnualSalary": 17500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 776,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 95500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 295,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 55500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 276,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 116500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 602,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 18500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 825,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 119500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 705,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 65500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 364,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 528,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 64500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 103,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 134000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 60,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 141000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 480,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 119500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 73,
+    "Gender": "Male",
+    "Age": 60,
+    "AnnualSalary": 76500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 301,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 839,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 79500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 400,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 15000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 340,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 22500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 691,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 27500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 247,
+    "Gender": "Female",
+    "Age": 43,
+    "AnnualSalary": 144500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 64,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 80500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 24,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 93000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 842,
+    "Gender": "Male",
+    "Age": 30,
+    "AnnualSalary": 80000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 497,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 831,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 22000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 436,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 48000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 67,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 50000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 737,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 23500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 983,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 87500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 218,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 54000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 166,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 454,
+    "Gender": "Male",
+    "Age": 59,
+    "AnnualSalary": 130000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 437,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 732,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 118000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 281,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 827,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 66000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 589,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 38000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 723,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 84500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 909,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 544,
+    "Gender": "Male",
+    "Age": 61,
+    "AnnualSalary": 146500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 992,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 34500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 638,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 127500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 812,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 28500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 403,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 656,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 35000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 250,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 63500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 564,
+    "Gender": "Male",
+    "Age": 21,
+    "AnnualSalary": 87500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 598,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 90000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 62,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 20500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 40,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 86000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 767,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 202,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 591,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 108000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 207,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 696,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 83500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 984,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 586,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 626,
+    "Gender": "Female",
+    "Age": 37,
+    "AnnualSalary": 33000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 724,
+    "Gender": "Male",
+    "Age": 54,
+    "AnnualSalary": 73500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 354,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 53500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 884,
+    "Gender": "Male",
+    "Age": 56,
+    "AnnualSalary": 60000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 758,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 150500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 545,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 119500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 908,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 61000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 248,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 82000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 355,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 63500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 289,
+    "Gender": "Male",
+    "Age": 35,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 804,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 618,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 77000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 916,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 292,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 118500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 488,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 49000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 52,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 71000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 815,
+    "Gender": "Female",
+    "Age": 23,
+    "AnnualSalary": 28500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 473,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 58500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 337,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 47000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 639,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 148500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 932,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 76500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 274,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 23500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 451,
+    "Gender": "Male",
+    "Age": 31,
+    "AnnualSalary": 108500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 63,
+    "Gender": "Female",
+    "Age": 55,
+    "AnnualSalary": 140500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 291,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 41500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 155,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 47000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 751,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 106500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 860,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 60000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 789,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 303,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 91500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 232,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 118000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 181,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 30000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 560,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 66500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 343,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 123500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 501,
+    "Gender": "Female",
+    "Age": 57,
+    "AnnualSalary": 122000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 464,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 31500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 319,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 75500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 952,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 356,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 64500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 779,
+    "Gender": "Male",
+    "Age": 45,
+    "AnnualSalary": 22000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 14,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 192,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 35500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 581,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 26500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 494,
+    "Gender": "Female",
+    "Age": 22,
+    "AnnualSalary": 69500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 981,
+    "Gender": "Male",
+    "Age": 37,
+    "AnnualSalary": 34500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 412,
+    "Gender": "Female",
+    "Age": 61,
+    "AnnualSalary": 97500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 505,
+    "Gender": "Female",
+    "Age": 33,
+    "AnnualSalary": 60000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 16,
+    "Gender": "Male",
+    "Age": 55,
+    "AnnualSalary": 152500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 508,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 54500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 211,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 818,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 35500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 823,
+    "Gender": "Female",
+    "Age": 32,
+    "AnnualSalary": 117000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 106,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 19500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 900,
+    "Gender": "Female",
+    "Age": 21,
+    "AnnualSalary": 83500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 561,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 72500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 797,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 72000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 989,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 27000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 558,
+    "Gender": "Female",
+    "Age": 51,
+    "AnnualSalary": 140500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 441,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 963,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 21000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 457,
+    "Gender": "Male",
+    "Age": 34,
+    "AnnualSalary": 43000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 802,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 106500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 470,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 28000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 707,
+    "Gender": "Female",
+    "Age": 59,
+    "AnnualSalary": 102500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 712,
+    "Gender": "Female",
+    "Age": 29,
+    "AnnualSalary": 47000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 283,
+    "Gender": "Female",
+    "Age": 50,
+    "AnnualSalary": 49500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 280,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 75500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 388,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 61500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 781,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 608,
+    "Gender": "Male",
+    "Age": 43,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 766,
+    "Gender": "Male",
+    "Age": 57,
+    "AnnualSalary": 74000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 177,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 109500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 404,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 139500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 968,
+    "Gender": "Female",
+    "Age": 34,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 212,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 141500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 539,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 886,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 107500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 748,
+    "Gender": "Female",
+    "Age": 41,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 735,
+    "Gender": "Male",
+    "Age": 50,
+    "AnnualSalary": 90500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 173,
+    "Gender": "Female",
+    "Age": 56,
+    "AnnualSalary": 145500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 592,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 57000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 255,
+    "Gender": "Male",
+    "Age": 40,
+    "AnnualSalary": 78000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 824,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 34500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 631,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 90000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 197,
+    "Gender": "Male",
+    "Age": 36,
+    "AnnualSalary": 33000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 405,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 138000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 798,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 54000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 185,
+    "Gender": "Male",
+    "Age": 51,
+    "AnnualSalary": 76500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 492,
+    "Gender": "Male",
+    "Age": 49,
+    "AnnualSalary": 65000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 731,
+    "Gender": "Male",
+    "Age": 46,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 980,
+    "Gender": "Male",
+    "Age": 27,
+    "AnnualSalary": 20000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 660,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 52500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 479,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 97000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 680,
+    "Gender": "Male",
+    "Age": 47,
+    "AnnualSalary": 34000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 830,
+    "Gender": "Female",
+    "Age": 52,
+    "AnnualSalary": 38000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 150,
+    "Gender": "Female",
+    "Age": 49,
+    "AnnualSalary": 30500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 760,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 26500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 857,
+    "Gender": "Male",
+    "Age": 26,
+    "AnnualSalary": 80500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 927,
+    "Gender": "Female",
+    "Age": 38,
+    "AnnualSalary": 34500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 154,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 50500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 1,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 100000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 933,
+    "Gender": "Female",
+    "Age": 40,
+    "AnnualSalary": 75000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 424,
+    "Gender": "Female",
+    "Age": 42,
+    "AnnualSalary": 81500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 814,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 62500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 184,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 83500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 962,
+    "Gender": "Male",
+    "Age": 52,
+    "AnnualSalary": 150000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 611,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 133500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 114,
+    "Gender": "Male",
+    "Age": 41,
+    "AnnualSalary": 52000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 39,
+    "Gender": "Male",
+    "Age": 19,
+    "AnnualSalary": 83500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 721,
+    "Gender": "Male",
+    "Age": 29,
+    "AnnualSalary": 148000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 642,
+    "Gender": "Female",
+    "Age": 58,
+    "AnnualSalary": 101000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 844,
+    "Gender": "Female",
+    "Age": 36,
+    "AnnualSalary": 48500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 440,
+    "Gender": "Male",
+    "Age": 63,
+    "AnnualSalary": 85500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 577,
+    "Gender": "Female",
+    "Age": 35,
+    "AnnualSalary": 44000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 757,
+    "Gender": "Male",
+    "Age": 22,
+    "AnnualSalary": 81000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 65,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 32000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 124,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 794,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 15000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 998,
+    "Gender": "Female",
+    "Age": 60,
+    "AnnualSalary": 77500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 287,
+    "Gender": "Male",
+    "Age": 32,
+    "AnnualSalary": 59500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 82,
+    "Gender": "Female",
+    "Age": 46,
+    "AnnualSalary": 23500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 695,
+    "Gender": "Female",
+    "Age": 39,
+    "AnnualSalary": 79000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 946,
+    "Gender": "Male",
+    "Age": 39,
+    "AnnualSalary": 60500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 676,
+    "Gender": "Male",
+    "Age": 42,
+    "AnnualSalary": 54000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 649,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 87000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 477,
+    "Gender": "Female",
+    "Age": 45,
+    "AnnualSalary": 77500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 572,
+    "Gender": "Male",
+    "Age": 48,
+    "AnnualSalary": 33000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 832,
+    "Gender": "Female",
+    "Age": 31,
+    "AnnualSalary": 71000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 302,
+    "Gender": "Male",
+    "Age": 33,
+    "AnnualSalary": 121500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 420,
+    "Gender": "Female",
+    "Age": 27,
+    "AnnualSalary": 84000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 971,
+    "Gender": "Male",
+    "Age": 25,
+    "AnnualSalary": 56500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 382,
+    "Gender": "Female",
+    "Age": 30,
+    "AnnualSalary": 48500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 168,
+    "Gender": "Female",
+    "Age": 24,
+    "AnnualSalary": 67500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 476,
+    "Gender": "Female",
+    "Age": 54,
+    "AnnualSalary": 136500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 951,
+    "Gender": "Female",
+    "Age": 53,
+    "AnnualSalary": 104000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 863,
+    "Gender": "Male",
+    "Age": 38,
+    "AnnualSalary": 59000,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 800,
+    "Gender": "Female",
+    "Age": 47,
+    "AnnualSalary": 23500,
+    "Purchased": 0
+  },
+  {
+    "User_ID": 407,
+    "Gender": "Female",
+    "Age": 28,
+    "AnnualSalary": 138500,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 299,
+    "Gender": "Female",
+    "Age": 48,
+    "AnnualSalary": 134000,
+    "Purchased": 1
+  },
+  {
+    "User_ID": 687,
+    "Gender": "Female",
+    "Age": 44,
+    "AnnualSalary": 73500,
+    "Purchased": 0
+  }
+]

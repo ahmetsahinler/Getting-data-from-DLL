@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\sonaq\bin\Debug\net7.0\sonaq.exe
+C:\Users\Ahmet\Desktop\sonaq\bin\Debug\net7.0\sonaq.deps.json
+C:\Users\Ahmet\Desktop\sonaq\bin\Debug\net7.0\sonaq.runtimeconfig.json
+C:\Users\Ahmet\Desktop\sonaq\bin\Debug\net7.0\sonaq.dll
+C:\Users\Ahmet\Desktop\sonaq\bin\Debug\net7.0\sonaq.pdb
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.dll
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\refint\sonaq.dll
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.pdb
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\sonaq.genruntimeconfig.cache
+C:\Users\Ahmet\Desktop\sonaq\obj\Debug\net7.0\ref\sonaq.dll
